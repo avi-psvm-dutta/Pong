@@ -22,4 +22,4 @@ Gameplay / Rules:
 
 Known issues:
 
-    Lag of ball movement when no player is trying to move their bat.
+    Movement of one player's bat is restricted when the other player taps a movement key.
